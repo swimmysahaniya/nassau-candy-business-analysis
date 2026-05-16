@@ -88,7 +88,7 @@ Users can dynamically filter data using:
 # 📂 Project Structure
 
 ```plaintext
-ecomm_project/
+nassau-candy-business-analysis/
 │
 ├── ui/
 │   └── app.py
@@ -105,7 +105,8 @@ ecomm_project/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone YOUR_GITHUB_REPO_LINK
+git clone https://github.com/swimmysahaniya/nassau-candy-business-analysis.git
+
 ```
 
 ---
@@ -113,7 +114,7 @@ git clone YOUR_GITHUB_REPO_LINK
 ## 2️⃣ Navigate to Project Folder
 
 ```bash
-cd ecomm_project
+cd nassau-candy-business-analysis
 ```
 
 ---
