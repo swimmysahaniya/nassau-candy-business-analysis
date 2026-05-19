@@ -282,7 +282,7 @@ Machine Learning Enthusiast
 
 # 🎥 Project Feedback Video
 
-- [Watch Project Explanation](https://github.com/swimmysahaniya/edupro-recommendation-system/blob/main/assets/2026-04-22%2011-51-02.mov)
+- [Watch Project Explanation](https://github.com/swimmysahaniya/nassau-candy-business-analysis/blob/main/video/nassau_candy_project_report.mov)
 
 ---
 
