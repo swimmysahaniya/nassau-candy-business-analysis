@@ -89,13 +89,20 @@ Users can dynamically filter data using:
 
 ```plaintext
 nassau-candy-business-analysis/
-│
+│   
+│── model/
+│   └── nassau_candy_distributor.csv
+│   └── product_classifier.ipynb
+│   
 ├── ui/
 │   └── app.py
-│
-├── nassau_candy_distributor.csv
-├── requirements.txt
-└── README.md
+│   └── nassau_candy_distributor.csv
+│   
+├── video/
+│   └── nassau_candy_project_report.mov
+│   
+├── README.md
+└── requirements.txt
 ```
 
 ---
@@ -142,7 +149,6 @@ streamlit
 pandas
 plotly
 scikit-learn
-openpyxl
 ```
 
 ---
@@ -271,6 +277,12 @@ Machine Learning Enthusiast
 
 - GitHub: https://github.com/swimmysahaniya
 - LinkedIn: https://www.linkedin.com/in/swimmy-sahaniya/
+
+---
+
+# 🎥 Project Feedback Video
+
+- [Watch Project Explanation](https://github.com/swimmysahaniya/edupro-recommendation-system/blob/main/assets/2026-04-22%2011-51-02.mov)
 
 ---
 
